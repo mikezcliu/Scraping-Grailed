@@ -11,11 +11,6 @@ import time
 
 # https://medium.com/the-andela-way/introduction-to-web-scraping-using-selenium-7ec377a8cf72
 
-# THIS FUCKING WORKS!!!!!!!!!!!!!!!
-# THIS FUCKING WORKS!!!!!!!!!!!!!!!
-# THIS FUCKING WORKS!!!!!!!!!!!!!!!
-
-
 # Set a "base" URL that we can append onto
 base_url = "https://www.grailed.com/sold/hLVZqhMQcg"
 
